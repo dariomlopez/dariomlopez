@@ -1,5 +1,6 @@
 # About Me 
-👋 Hi, I’m Darío, enthusiast Full Stack-Developer.
+👋 Hi, I’m Darío, an enthusiast Full Stack-Developer open for work.
+I'm looking for work as a junior developer.
 ## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
