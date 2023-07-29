@@ -1,5 +1,5 @@
 # About Me 
-👋 Hi, I’m Darío, a Full Stack-Developer.
+##👋 Hi, I’m Darío, a Full Stack-Developer.
 ## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
