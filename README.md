@@ -1,6 +1,6 @@
 # About Me 
-##👋 Hi, I’m Darío, a Full Stack-Developer.
-### Technologies and Tools I use regularly:
+👋 Hi, I’m Darío, enthusiast Full Stack-Developer.
+## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
@@ -28,7 +28,7 @@
   - Briefly describe your responsibilities and key achievements in this role. -->
 
 ## Contact Information
-- 📞  Phone: +34 679725971
+- 📞 Phone: +34 679725971
 - 📧 Email: dmarotolopez@gmail.com
 - <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/> [LinkedIn Profile](https://www.linkedin.com/in/dariomaroto/)
 
