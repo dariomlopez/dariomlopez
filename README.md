@@ -1,6 +1,5 @@
-## Overview
-Welcome to my Full Stack Developer portfolio! This repository showcases my skills, projects, and experiences as a Full Stack Developer. I am passionate about building robust and user-friendly web applications and I love working with both the front-end and back-end technologies.
-
+# About Me 
+👋 Hi, I’m Darío, a Full Stack-Developer.
 ## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
