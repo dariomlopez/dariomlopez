@@ -29,7 +29,7 @@ Welcome to my Full Stack Developer portfolio! This repository showcases my skill
 ## Contact Information
 - 📞  Phone: +34 679725971
 - 📧 Email: dmarotolopez@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dariomaroto/)
+- <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> [LinkedIn Profile](https://www.linkedin.com/in/dariomaroto/)
 
 <!-- ## Additional Information
 Feel free to explore the projects in this repository and connect with me on LinkedIn. I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full Stack Developer.
