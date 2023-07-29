@@ -1,6 +1,6 @@
 # About Me 
 ##👋 Hi, I’m Darío, a Full Stack-Developer.
-## Technologies and Tools I use regularly:
+### Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
