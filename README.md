@@ -18,14 +18,9 @@
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
+
 ## Additional Information
 Feel free to explore my repositories and connect with me on LinkedIn. I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full Stack Developer.
-<!--## Experience
-- Company Name 1 | Full Stack Developer | Dates
-  - Briefly describe your responsibilities and key achievements in this role.
-
-- Company Name 2 | Full Stack Developer | Dates
-  - Briefly describe your responsibilities and key achievements in this role.-->
 
 ## Contact Information
 - 📞 Phone: +34 679725971
