@@ -1,7 +1,8 @@
 # About Me:
 <h1>👋 Hi, I’m Darío, an enthusiastic Full Stack Developer.</h1>
-- :telescope: Looking forward to embark on my first job opportunity, where I can apply my recently adquired knowledge of programming tool and languages while continuously learning through meaningful projects.
-
+- :telescope: Looking forward to embark on my first job opportunity, where I can apply my recently adquired knowledge of programming tool and languages while continuously learning and expanding my skills through meaningful projects.
+At the beginning of this year, I took a career break to participate in a programming course.<br>
+Throughout this course, I've been actively learning and regularly using the languages and tools mentioned in the next section.
 ## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
