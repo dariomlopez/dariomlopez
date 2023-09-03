@@ -4,7 +4,7 @@
 At the beginning of this year, I took a career break to participate in a programming course.<br>
 Throughout this course, I've been actively learning and regularly using the languages and tools mentioned in the next section.
 <br>
--
+---
 ## Technologies and Tools I use regularly:
 <p>
  <strong>Front-end</strong><br>
