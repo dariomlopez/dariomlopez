@@ -22,7 +22,7 @@
 </p>
 
 ## Additional Information
-Feel free to explore my repositories and connect with me on LinkedIn.
+Feel free to explore my repositories and projects here on github and connect with me on LinkedIn.<br>
 I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full Stack Developer.
 
 ## Contact Information
