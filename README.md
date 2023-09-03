@@ -5,7 +5,7 @@ At the beginning of this year, I took a career break to participate in a program
 Throughout this course, I've been actively learning and regularly using the languages and tools mentioned in the next section.
 <br>
 ---
-## Technologies and Tools I use regularly:
+## Technologies and Tools I use regularly: ##
 <p>
  <strong>Front-end</strong><br>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
