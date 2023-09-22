@@ -18,7 +18,7 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-164DEA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="Python" src="https://img.shields.io/badge/python-EAB364?style=for-the-badge&logo=python&logoColor=000" height="25px"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-F44336.svg?style=for-the-badge&logo=express&logoColor=002" height="25px"/>
+ <img alt="Express" src="https://img.shields.io/badge/express.js-F44336.svg?style=for-the-badge&logo=express&logoColor=000" height="25px"/>
  <br>
  <strong>Databases</strong><br>
  <img src="https://img.shields.io/badge/MySQL-035C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
