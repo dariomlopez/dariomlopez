@@ -21,7 +21,7 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <img alt="Express" src="https://img.shields.io/badge/express.js-F44336.svg?style=for-the-badge&logo=express&logoColor=000" height="25px"/>
  <br>
  <strong>Databases</strong><br>
- <img src="https://img.shields.io/badge/MySQL-36EFF4?style=for-the-badge&logo=mysql&logoColor=000" alt="MySQL">
+ <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&logo=mysql&logoColor=000" alt="MySQL">
  <img src="https://img.shields.io/badge/SQLite-F48236?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
 </p>
 
