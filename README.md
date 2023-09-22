@@ -15,7 +15,7 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
  <br>
  <strong>Back-End</strong><br>
- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+ <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-8D1C3D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="Python" src="https://img.shields.io/badge/python-3675A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25px"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
