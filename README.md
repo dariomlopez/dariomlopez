@@ -22,7 +22,7 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <br>
  <strong>Databases</strong><br>
  <img src="https://img.shields.io/badge/MySQL-035C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
- <img src="https://img.shields.io/badge/SQLite-36E7F4?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
+ <img src="https://img.shields.io/badge/SQLite-36EFF4?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
 </p>
 
 ## Additional Information
