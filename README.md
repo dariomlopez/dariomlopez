@@ -10,12 +10,12 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <strong>Front-end</strong><br>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-164DEA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/><br>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
  <br>
  <strong>Back-End</strong><br>
- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-164DEA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="Python" src="https://img.shields.io/badge/python-EAB364?style=for-the-badge&logo=python&logoColor=000" height="25px"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
  <img alt="Express" src="https://img.shields.io/badge/express.js-F44336.svg?style=for-the-badge&logo=express&logoColor=000" height="25px"/>
