@@ -25,7 +25,7 @@ I'm eager to embark on my first job opportunity, where I can apply my recently a
  <img src="https://img.shields.io/badge/SQLite-F48236?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
 </p>
 <hr>
-[![Most used languages](https://github-readme-stats.vercel.app/api?username=dariomlopez)](https://github.com/dariomlopez/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api?username=dariomlopez)
 
 ## Additional Information
 Feel free to explore my repositories and projects here on github and connect with me on LinkedIn.<br>
