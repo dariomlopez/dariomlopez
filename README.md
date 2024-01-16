@@ -1,6 +1,6 @@
 # About Me:
 <h1>👋 Hi, I’m Darío, an enthusiastic Full Stack Developer.</h1>
-- :telescope: At the beginning of this year, I took a career break to participate in a programming course. Throughout this course, I've been learning and using languages and tools like HTML 5, CSS3, JavaScript including NodeJS and React, MySQL8, Python and others.
+- :telescope: At the beginning of 2023, I took the decision to participate in a programming course. Throughout this course, I've been learning and using languages and tools like HTML 5, CSS3, JavaScript including NodeJS and React, MySQL8, Python and others.
 <br>
 I'm eager to embark on my first job opportunity, where I can apply my recently acquired knowledge of programming tools and languages while continuously learning and expanding my skills through meaningful projects.<br>
 <br>
