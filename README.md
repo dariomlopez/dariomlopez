@@ -25,7 +25,7 @@ Now I'm channelling my recently discovered passion in tech to the field of cyber
  <img src="https://img.shields.io/badge/SQLite-F48236?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
  <br>
  <strong>OS</strong><br>
- <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=flat](https://img.shields.io/badge/OS-KALI%20LINUX-be00cc.svg?colorA=9a929b&style=for-the-badge&logoWidth=14&logo=data:image/svg+xml" alt="Kali Linux">
+ <img src="https://img.shields.io/badge/OS-KALI%20LINUX-be00cc.svg?colorA=9a929b&style=for-the-badge&logoWidth=14&logo=data:image/svg+xml" alt="Kali Linux">
 </p>
 <hr>
 
