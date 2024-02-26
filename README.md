@@ -23,8 +23,9 @@ Now I'm channelling my recently discovered passion in tech to the field of cyber
  <strong>Databases</strong><br>
  <img src="https://img.shields.io/badge/MySQL-156140?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL">
  <img src="https://img.shields.io/badge/SQLite-F48236?style=for-the-badge&logo=sqlite&logoColor=000" alt="SQLite">
+ <br>
  <strong>OS</strong><br>
- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-purple?style=flat)
+ <img src="https://img.shields.io/badge/Kali%20Linux-purple?style=flat alt="Kali Linux">
 </p>
 <hr>
 
