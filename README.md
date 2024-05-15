@@ -1,6 +1,7 @@
 # About Me:
 <h1>👋 Hi, I’m Darío, an enthusiastic Full-Stack Developer.</h1>
-:telescope: At the beginning of 2023, I took the decision to participate in a programming course. Throughout this course, I've been learning and using languages and tools like HTML 5, CSS3, JavaScript including NodeJS and React, MySQL8, Python and others.
+:telescope: I am a passionate junior Full-Stack developer, driven by the desire to create great and efficient applications. My passion for technology and programming started with a career change in early 2023, when I decided to explore this area guided by my personal curiosity and self-motivation.
+My objective is to continue growing as a full-stack developer, constantly learning about new technologies and best practices to develop innovative, secure and high-quality applications.
 <br>
 Now I'm channelling my recently discovered passion in tech to the field of cybersecurity.<br>
 <br>
@@ -33,7 +34,7 @@ Now I'm channelling my recently discovered passion in tech to the field of cyber
 
 ## Additional Information
 Feel free to explore my repositories and projects here on github and connect with me on LinkedIn.<br>
-I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full Stack Developer.
+I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full-Stack Developer.
 
 ## Contact Information
 - 📞 Phone: +34 679725971
