@@ -3,8 +3,6 @@
 :telescope: I am a passionate junior Full-Stack developer, driven by the desire to create great and efficient applications. My passion for technology and programming started with a career change in early 2023, when I decided to explore this area guided by my personal curiosity and self-motivation.
 My objective is to continue growing as a full-stack developer, constantly learning about new technologies and best practices to develop innovative, secure and high-quality applications.
 <br>
-Now I'm channelling my recently discovered passion in tech to the field of cybersecurity.<br>
-<br>
 
 ## Technologies and Tools I use regularly: ##
 <p>
