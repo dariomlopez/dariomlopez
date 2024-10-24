@@ -1,7 +1,7 @@
 # About Me:
 <h1>👋 Hi, I’m Darío, an enthusiastic Full-Stack Developer.</h1>
-:telescope: I am a passionate junior Full-Stack developer, driven by the desire to create great and efficient applications. My passion for technology and programming started with a career change in early 2023, when I decided to explore this area guided by my personal curiosity and self-motivation.
-My objective is to continue growing as a full-stack developer, constantly learning about new technologies and best practices to develop innovative, secure and high-quality applications.
+:telescope: I am a passionate developer, driven by the desire to create great and efficient applications. My passion for technology and programming started with a career change in early 2023, when I decided to explore this area guided by my personal curiosity and self-motivation.
+My objective is to continue growing, constantly learning about new technologies and best practices to develop innovative, secure and high-quality applications.
 <br>
 
 ## Technologies and Tools I use regularly: ##
@@ -32,7 +32,7 @@ My objective is to continue growing as a full-stack developer, constantly learni
 
 ## Additional Information
 Feel free to explore my repositories and projects here on github and connect with me on LinkedIn.<br>
-I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects as a Full-Stack Developer.
+I am open to new opportunities and collaborations, and I am excited about contributing to innovative and impactful projects.
 
 ## Contact Information
 - 📞 Phone: +34 679725971
