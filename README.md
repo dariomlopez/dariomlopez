@@ -1,5 +1,5 @@
 # About Me:
-<h1>👋 Hi, I’m Darío, an enthusiastic Full-Stack Developer.</h1>
+<h1>👋 Hi, I’m Darío, an enthusiastic developer.</h1>
 :telescope: I am a passionate developer, driven by the desire to create great and efficient applications. My passion for technology and programming started with a career change in early 2023, when I decided to explore this area guided by my personal curiosity and self-motivation.
 My objective is to continue growing, constantly learning about new technologies and best practices to develop innovative, secure and high-quality applications.
 <br>
